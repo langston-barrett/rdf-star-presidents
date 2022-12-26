@@ -1,0 +1,417 @@
+[
+  {
+    "pres": "http://www.wikidata.org/entity/Q23",
+    "presLabel": "George Washington",
+    "start": "1789-04-30T00:00:00Z",
+    "end": "1797-03-04T00:00:00Z",
+    "ord": "1",
+    "succ": "http://www.wikidata.org/entity/Q11806"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11881",
+    "presLabel": "John Tyler",
+    "start": "1841-04-04T00:00:00Z",
+    "end": "1845-03-04T00:00:00Z",
+    "ord": "10",
+    "succ": "http://www.wikidata.org/entity/Q11891",
+    "pred": "http://www.wikidata.org/entity/Q11869"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11891",
+    "presLabel": "James K. Polk",
+    "start": "1845-03-04T00:00:00Z",
+    "end": "1849-03-04T00:00:00Z",
+    "ord": "11",
+    "succ": "http://www.wikidata.org/entity/Q11896",
+    "pred": "http://www.wikidata.org/entity/Q11881"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11896",
+    "presLabel": "Zachary Taylor",
+    "start": "1849-03-04T00:00:00Z",
+    "end": "1850-07-09T00:00:00Z",
+    "ord": "12",
+    "succ": "http://www.wikidata.org/entity/Q12306",
+    "pred": "http://www.wikidata.org/entity/Q11891"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q12306",
+    "presLabel": "Millard Fillmore",
+    "start": "1850-07-09T00:00:00Z",
+    "end": "1853-03-04T00:00:00Z",
+    "ord": "13",
+    "succ": "http://www.wikidata.org/entity/Q12312",
+    "pred": "http://www.wikidata.org/entity/Q11896"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q12312",
+    "presLabel": "Franklin Pierce",
+    "start": "1853-03-04T00:00:00Z",
+    "end": "1857-03-04T00:00:00Z",
+    "ord": "14",
+    "succ": "http://www.wikidata.org/entity/Q12325",
+    "pred": "http://www.wikidata.org/entity/Q12306"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q12325",
+    "presLabel": "James Buchanan",
+    "start": "1857-03-04T00:00:00Z",
+    "end": "1861-03-04T00:00:00Z",
+    "ord": "15",
+    "succ": "http://www.wikidata.org/entity/Q91",
+    "pred": "http://www.wikidata.org/entity/Q12312"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q91",
+    "presLabel": "Abraham Lincoln",
+    "start": "1861-03-04T00:00:00Z",
+    "end": "1865-04-15T00:00:00Z",
+    "ord": "16",
+    "succ": "http://www.wikidata.org/entity/Q8612",
+    "pred": "http://www.wikidata.org/entity/Q12325"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q8612",
+    "presLabel": "Andrew Johnson",
+    "start": "1865-04-15T00:00:00Z",
+    "end": "1869-03-04T00:00:00Z",
+    "ord": "17",
+    "succ": "http://www.wikidata.org/entity/Q34836",
+    "pred": "http://www.wikidata.org/entity/Q91"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q34836",
+    "presLabel": "Ulysses S Grant",
+    "start": "1869-03-04T00:00:00Z",
+    "end": "1877-03-04T00:00:00Z",
+    "ord": "18",
+    "succ": "http://www.wikidata.org/entity/Q35686",
+    "pred": "http://www.wikidata.org/entity/Q8612"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35686",
+    "presLabel": "Rutherford B. Hayes",
+    "start": "1877-03-04T00:00:00Z",
+    "end": "1881-03-04T00:00:00Z",
+    "ord": "19",
+    "succ": "http://www.wikidata.org/entity/Q34597",
+    "pred": "http://www.wikidata.org/entity/Q34836"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11806",
+    "presLabel": "John Adams",
+    "start": "1797-03-04T00:00:00Z",
+    "end": "1801-03-04T00:00:00Z",
+    "ord": "2",
+    "succ": "http://www.wikidata.org/entity/Q11812",
+    "pred": "http://www.wikidata.org/entity/Q23"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q34597",
+    "presLabel": "James A. Garfield",
+    "start": "1881-03-04T00:00:00Z",
+    "end": "1881-09-19T00:00:00Z",
+    "ord": "20",
+    "succ": "http://www.wikidata.org/entity/Q35498",
+    "pred": "http://www.wikidata.org/entity/Q35686"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35498",
+    "presLabel": "Chester A. Arthur",
+    "start": "1881-09-19T00:00:00Z",
+    "end": "1885-03-04T00:00:00Z",
+    "ord": "21",
+    "succ": "http://www.wikidata.org/entity/Q35171",
+    "pred": "http://www.wikidata.org/entity/Q34597"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35171",
+    "presLabel": "Grover Cleveland",
+    "start": "1885-03-04T00:00:00Z",
+    "end": "1889-03-04T00:00:00Z",
+    "ord": "22",
+    "succ": "http://www.wikidata.org/entity/Q35678",
+    "pred": "http://www.wikidata.org/entity/Q35498"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35678",
+    "presLabel": "Benjamin Harrison",
+    "start": "1889-03-04T00:00:00Z",
+    "end": "1893-03-04T00:00:00Z",
+    "ord": "23",
+    "succ": "http://www.wikidata.org/entity/Q35171",
+    "pred": "http://www.wikidata.org/entity/Q35171"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35171",
+    "presLabel": "Grover Cleveland",
+    "start": "1893-03-04T00:00:00Z",
+    "end": "1897-03-04T00:00:00Z",
+    "ord": "24",
+    "succ": "http://www.wikidata.org/entity/Q35041",
+    "pred": "http://www.wikidata.org/entity/Q35678"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35041",
+    "presLabel": "William McKinley",
+    "start": "1897-03-04T00:00:00Z",
+    "end": "1901-09-14T00:00:00Z",
+    "ord": "25",
+    "succ": "http://www.wikidata.org/entity/Q33866",
+    "pred": "http://www.wikidata.org/entity/Q35171"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q33866",
+    "presLabel": "Theodore Roosevelt",
+    "start": "1901-09-14T00:00:00Z",
+    "end": "1909-03-04T00:00:00Z",
+    "ord": "26",
+    "succ": "http://www.wikidata.org/entity/Q35648",
+    "pred": "http://www.wikidata.org/entity/Q35041"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35648",
+    "presLabel": "William Howard Taft",
+    "start": "1909-03-04T00:00:00Z",
+    "end": "1913-03-04T00:00:00Z",
+    "ord": "27",
+    "succ": "http://www.wikidata.org/entity/Q34296",
+    "pred": "http://www.wikidata.org/entity/Q33866"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q34296",
+    "presLabel": "Woodrow Wilson",
+    "start": "1913-03-04T00:00:00Z",
+    "end": "1921-03-04T00:00:00Z",
+    "ord": "28",
+    "succ": "http://www.wikidata.org/entity/Q35286",
+    "pred": "http://www.wikidata.org/entity/Q35648"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35286",
+    "presLabel": "Warren G. Harding",
+    "start": "1921-03-04T00:00:00Z",
+    "end": "1923-08-02T00:00:00Z",
+    "ord": "29",
+    "succ": "http://www.wikidata.org/entity/Q36023",
+    "pred": "http://www.wikidata.org/entity/Q34296"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11812",
+    "presLabel": "Thomas Jefferson",
+    "start": "1801-03-04T00:00:00Z",
+    "end": "1809-03-04T00:00:00Z",
+    "ord": "3",
+    "succ": "http://www.wikidata.org/entity/Q11813",
+    "pred": "http://www.wikidata.org/entity/Q11806"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q36023",
+    "presLabel": "Calvin Coolidge",
+    "start": "1923-08-02T00:00:00Z",
+    "end": "1929-03-04T00:00:00Z",
+    "ord": "30",
+    "succ": "http://www.wikidata.org/entity/Q35236",
+    "pred": "http://www.wikidata.org/entity/Q35286"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q35236",
+    "presLabel": "Herbert Hoover",
+    "start": "1929-03-04T00:00:00Z",
+    "end": "1933-03-04T00:00:00Z",
+    "ord": "31",
+    "succ": "http://www.wikidata.org/entity/Q8007",
+    "pred": "http://www.wikidata.org/entity/Q36023"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q8007",
+    "presLabel": "Franklin Delano Roosevelt",
+    "start": "1933-03-04T00:00:00Z",
+    "end": "1945-04-12T00:00:00Z",
+    "ord": "32",
+    "succ": "http://www.wikidata.org/entity/Q11613",
+    "pred": "http://www.wikidata.org/entity/Q35236"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11613",
+    "presLabel": "Harry S Truman",
+    "start": "1945-04-12T00:00:00Z",
+    "end": "1953-01-20T00:00:00Z",
+    "ord": "33",
+    "succ": "http://www.wikidata.org/entity/Q9916",
+    "pred": "http://www.wikidata.org/entity/Q8007"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q9916",
+    "presLabel": "Dwight D. Eisenhower",
+    "start": "1953-01-20T00:00:00Z",
+    "end": "1961-01-20T00:00:00Z",
+    "ord": "34",
+    "succ": "http://www.wikidata.org/entity/Q9696",
+    "pred": "http://www.wikidata.org/entity/Q11613",
+    "vice": "http://www.wikidata.org/entity/Q9588"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q9696",
+    "presLabel": "John F. Kennedy",
+    "start": "1961-01-20T00:00:00Z",
+    "end": "1963-11-22T00:00:00Z",
+    "ord": "35",
+    "succ": "http://www.wikidata.org/entity/Q9640",
+    "pred": "http://www.wikidata.org/entity/Q9916"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q9640",
+    "presLabel": "Lyndon B. Johnson",
+    "start": "1963-11-22T00:00:00Z",
+    "end": "1969-01-20T00:00:00Z",
+    "ord": "36",
+    "succ": "http://www.wikidata.org/entity/Q9588",
+    "pred": "http://www.wikidata.org/entity/Q9696"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q9588",
+    "presLabel": "Richard Nixon",
+    "start": "1969-01-20T00:00:00Z",
+    "end": "1974-08-09T00:00:00Z",
+    "ord": "37",
+    "succ": "http://www.wikidata.org/entity/Q9582",
+    "pred": "http://www.wikidata.org/entity/Q9640"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q9582",
+    "presLabel": "Gerald Ford",
+    "start": "1974-08-09T00:00:00Z",
+    "end": "1977-01-20T00:00:00Z",
+    "ord": "38",
+    "succ": "http://www.wikidata.org/entity/Q23685",
+    "pred": "http://www.wikidata.org/entity/Q9588"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q23685",
+    "presLabel": "Jimmy Carter",
+    "start": "1977-01-20T00:00:00Z",
+    "end": "1981-01-20T00:00:00Z",
+    "ord": "39",
+    "succ": "http://www.wikidata.org/entity/Q9960",
+    "pred": "http://www.wikidata.org/entity/Q9582"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11813",
+    "presLabel": "James Madison",
+    "start": "1809-03-04T00:00:00Z",
+    "end": "1817-03-04T00:00:00Z",
+    "ord": "4",
+    "succ": "http://www.wikidata.org/entity/Q11815",
+    "pred": "http://www.wikidata.org/entity/Q11812"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q9960",
+    "presLabel": "Ronald Reagan",
+    "start": "1981-01-20T00:00:00Z",
+    "end": "1989-01-20T00:00:00Z",
+    "ord": "40",
+    "succ": "http://www.wikidata.org/entity/Q23505",
+    "pred": "http://www.wikidata.org/entity/Q23685",
+    "vice": "http://www.wikidata.org/entity/Q23505"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q23505",
+    "presLabel": "George H. W. Bush",
+    "start": "1989-01-20T00:00:00Z",
+    "end": "1993-01-20T00:00:00Z",
+    "ord": "41",
+    "succ": "http://www.wikidata.org/entity/Q1124",
+    "pred": "http://www.wikidata.org/entity/Q9960"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q1124",
+    "presLabel": "Bill Clinton",
+    "start": "1993-01-20T00:00:00Z",
+    "end": "2001-01-20T00:00:00Z",
+    "ord": "42",
+    "succ": "http://www.wikidata.org/entity/Q207",
+    "pred": "http://www.wikidata.org/entity/Q23505"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q207",
+    "presLabel": "George W. Bush",
+    "start": "2001-01-20T00:00:00Z",
+    "end": "2009-01-20T00:00:00Z",
+    "ord": "43",
+    "succ": "http://www.wikidata.org/entity/Q76",
+    "pred": "http://www.wikidata.org/entity/Q1124"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q76",
+    "presLabel": "Barack Obama",
+    "start": "2009-01-20T00:00:00Z",
+    "end": "2017-01-20T00:00:00Z",
+    "ord": "44",
+    "succ": "http://www.wikidata.org/entity/Q22686",
+    "pred": "http://www.wikidata.org/entity/Q207",
+    "vice": "http://www.wikidata.org/entity/Q6279"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q22686",
+    "presLabel": "Donald Trump",
+    "start": "2017-01-20T00:00:00Z",
+    "end": "2021-01-20T00:00:00Z",
+    "ord": "45",
+    "succ": "http://www.wikidata.org/entity/Q6279",
+    "pred": "http://www.wikidata.org/entity/Q76",
+    "vice": "http://www.wikidata.org/entity/Q24313"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q6279",
+    "presLabel": "Joe Biden",
+    "start": "2021-01-20T00:00:00Z",
+    "ord": "46",
+    "pred": "http://www.wikidata.org/entity/Q22686"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11815",
+    "presLabel": "James Monroe",
+    "start": "1817-03-04T00:00:00Z",
+    "end": "1825-03-04T00:00:00Z",
+    "ord": "5",
+    "succ": "http://www.wikidata.org/entity/Q11816",
+    "pred": "http://www.wikidata.org/entity/Q11813"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11816",
+    "presLabel": "John Quincy Adams",
+    "start": "1825-03-04T00:00:00Z",
+    "end": "1829-03-04T00:00:00Z",
+    "ord": "6",
+    "succ": "http://www.wikidata.org/entity/Q11817",
+    "pred": "http://www.wikidata.org/entity/Q11815"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11817",
+    "presLabel": "Andrew Jackson",
+    "start": "1829-03-04T00:00:00Z",
+    "end": "1837-03-04T00:00:00Z",
+    "ord": "7",
+    "succ": "http://www.wikidata.org/entity/Q11820",
+    "pred": "http://www.wikidata.org/entity/Q11816"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11820",
+    "presLabel": "Martin Van Buren",
+    "start": "1837-03-04T00:00:00Z",
+    "end": "1841-03-04T00:00:00Z",
+    "ord": "8",
+    "succ": "http://www.wikidata.org/entity/Q11869",
+    "pred": "http://www.wikidata.org/entity/Q11817"
+  },
+  {
+    "pres": "http://www.wikidata.org/entity/Q11869",
+    "presLabel": "William Henry Harrison",
+    "start": "1841-03-04T00:00:00Z",
+    "end": "1841-04-04T00:00:00Z",
+    "ord": "9",
+    "succ": "http://www.wikidata.org/entity/Q11881",
+    "pred": "http://www.wikidata.org/entity/Q11820"
+  }
+]

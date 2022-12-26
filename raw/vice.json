@@ -1,0 +1,394 @@
+[
+  {
+    "item1": "http://www.wikidata.org/entity/Q23",
+    "item1Label": "George Washington",
+    "item2": "http://www.wikidata.org/entity/Q11806",
+    "item2Label": "John Adams",
+    "starttime2": "1789-04-21T00:00:00Z",
+    "endtime2": "1797-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11806",
+    "item1Label": "John Adams",
+    "item2": "http://www.wikidata.org/entity/Q11812",
+    "item2Label": "Thomas Jefferson",
+    "starttime2": "1797-03-04T00:00:00Z",
+    "endtime2": "1801-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11812",
+    "item1Label": "Thomas Jefferson",
+    "item2": "http://www.wikidata.org/entity/Q179090",
+    "item2Label": "Aaron Burr",
+    "starttime2": "1801-03-04T00:00:00Z",
+    "endtime2": "1805-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11812",
+    "item1Label": "Thomas Jefferson",
+    "item2": "http://www.wikidata.org/entity/Q201646",
+    "item2Label": "George Clinton",
+    "starttime2": "1805-03-04T00:00:00Z",
+    "endtime2": "1812-04-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11813",
+    "item1Label": "James Madison",
+    "item2": "http://www.wikidata.org/entity/Q219797",
+    "item2Label": "Elbridge Gerry",
+    "starttime2": "1813-03-04T00:00:00Z",
+    "endtime2": "1814-11-23T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11815",
+    "item1Label": "James Monroe",
+    "item2": "http://www.wikidata.org/entity/Q223545",
+    "item2Label": "Daniel D. Tompkins",
+    "starttime2": "1817-03-04T00:00:00Z",
+    "endtime2": "1825-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11816",
+    "item1Label": "John Quincy Adams",
+    "item2": "http://www.wikidata.org/entity/Q207191",
+    "item2Label": "John C. Calhoun",
+    "starttime2": "1825-03-04T00:00:00Z",
+    "endtime2": "1832-12-28T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11817",
+    "item1Label": "Andrew Jackson",
+    "item2": "http://www.wikidata.org/entity/Q11820",
+    "item2Label": "Martin Van Buren",
+    "starttime2": "1833-03-04T00:00:00Z",
+    "endtime2": "1837-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11820",
+    "item1Label": "Martin Van Buren",
+    "item2": "http://www.wikidata.org/entity/Q109463",
+    "item2Label": "Richard Mentor Johnson",
+    "starttime2": "1837-03-04T00:00:00Z",
+    "endtime2": "1841-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11869",
+    "item1Label": "William Henry Harrison",
+    "item2": "http://www.wikidata.org/entity/Q11881",
+    "item2Label": "John Tyler",
+    "starttime2": "1841-03-04T00:00:00Z",
+    "endtime2": "1841-04-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11891",
+    "item1Label": "James K. Polk",
+    "item2": "http://www.wikidata.org/entity/Q310849",
+    "item2Label": "George M. Dallas",
+    "starttime2": "1845-03-04T00:00:00Z",
+    "endtime2": "1849-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11896",
+    "item1Label": "Zachary Taylor",
+    "item2": "http://www.wikidata.org/entity/Q12306",
+    "item2Label": "Millard Fillmore",
+    "starttime2": "1849-03-04T00:00:00Z",
+    "endtime2": "1850-07-09T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q12312",
+    "item1Label": "Franklin Pierce",
+    "item2": "http://www.wikidata.org/entity/Q298985",
+    "item2Label": "William R. King",
+    "starttime2": "1853-03-04T00:00:00Z",
+    "endtime2": "1853-04-18T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q12325",
+    "item1Label": "James Buchanan",
+    "item2": "http://www.wikidata.org/entity/Q273212",
+    "item2Label": "John C. Breckinridge",
+    "starttime2": "1857-03-04T00:00:00Z",
+    "endtime2": "1861-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q91",
+    "item1Label": "Abraham Lincoln",
+    "item2": "http://www.wikidata.org/entity/Q273546",
+    "item2Label": "Hannibal Hamlin",
+    "starttime2": "1861-03-04T00:00:00Z",
+    "endtime2": "1865-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q91",
+    "item1Label": "Abraham Lincoln",
+    "item2": "http://www.wikidata.org/entity/Q8612",
+    "item2Label": "Andrew Johnson",
+    "starttime2": "1865-03-04T00:00:00Z",
+    "endtime2": "1865-04-15T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q34836",
+    "item1Label": "Ulysses S Grant",
+    "item2": "http://www.wikidata.org/entity/Q310852",
+    "item2Label": "Schuyler Colfax",
+    "starttime2": "1869-03-04T00:00:00Z",
+    "endtime2": "1873-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q34836",
+    "item1Label": "Ulysses S Grant",
+    "item2": "http://www.wikidata.org/entity/Q313302",
+    "item2Label": "Henry Wilson",
+    "starttime2": "1873-03-04T00:00:00Z",
+    "endtime2": "1875-11-22T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35686",
+    "item1Label": "Rutherford B. Hayes",
+    "item2": "http://www.wikidata.org/entity/Q310835",
+    "item2Label": "William A. Wheeler",
+    "starttime2": "1877-03-04T00:00:00Z",
+    "endtime2": "1881-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q34597",
+    "item1Label": "James A. Garfield",
+    "item2": "http://www.wikidata.org/entity/Q35498",
+    "item2Label": "Chester A. Arthur",
+    "starttime2": "1881-03-04T00:00:00Z",
+    "endtime2": "1881-09-19T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35171",
+    "item1Label": "Grover Cleveland",
+    "item2": "http://www.wikidata.org/entity/Q310843",
+    "item2Label": "Thomas A. Hendricks",
+    "starttime2": "1885-03-04T00:00:00Z",
+    "endtime2": "1885-11-25T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35678",
+    "item1Label": "Benjamin Harrison",
+    "item2": "http://www.wikidata.org/entity/Q298997",
+    "item2Label": "Levi P. Morton",
+    "starttime2": "1889-03-04T00:00:00Z",
+    "endtime2": "1893-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35171",
+    "item1Label": "Grover Cleveland",
+    "item2": "http://www.wikidata.org/entity/Q310839",
+    "item2Label": "Adlai Stevenson I",
+    "starttime2": "1893-03-04T00:00:00Z",
+    "endtime2": "1897-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35041",
+    "item1Label": "William McKinley",
+    "item2": "http://www.wikidata.org/entity/Q310841",
+    "item2Label": "Garret Hobart",
+    "starttime2": "1897-03-04T00:00:00Z",
+    "endtime2": "1899-11-21T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35041",
+    "item1Label": "William McKinley",
+    "item2": "http://www.wikidata.org/entity/Q33866",
+    "item2Label": "Theodore Roosevelt",
+    "starttime2": "1901-03-04T00:00:00Z",
+    "endtime2": "1901-09-14T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q33866",
+    "item1Label": "Theodore Roosevelt",
+    "item2": "http://www.wikidata.org/entity/Q270539",
+    "item2Label": "Charles W. Fairbanks",
+    "starttime2": "1905-03-04T00:00:00Z",
+    "endtime2": "1909-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35648",
+    "item1Label": "William Howard Taft",
+    "item2": "http://www.wikidata.org/entity/Q310831",
+    "item2Label": "James S. Sherman",
+    "starttime2": "1909-03-04T00:00:00Z",
+    "endtime2": "1912-10-30T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q34296",
+    "item1Label": "Woodrow Wilson",
+    "item2": "http://www.wikidata.org/entity/Q299001",
+    "item2Label": "Thomas Riley Marshall",
+    "starttime2": "1913-03-04T00:00:00Z",
+    "endtime2": "1921-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35286",
+    "item1Label": "Warren G. Harding",
+    "item2": "http://www.wikidata.org/entity/Q36023",
+    "item2Label": "Calvin Coolidge",
+    "starttime2": "1921-03-04T00:00:00Z",
+    "endtime2": "1923-08-02T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q36023",
+    "item1Label": "Calvin Coolidge",
+    "item2": "http://www.wikidata.org/entity/Q184565",
+    "item2Label": "Charles G. Dawes",
+    "starttime2": "1925-03-04T00:00:00Z",
+    "endtime2": "1929-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q35236",
+    "item1Label": "Herbert Hoover",
+    "item2": "http://www.wikidata.org/entity/Q271023",
+    "item2Label": "Charles Curtis",
+    "starttime2": "1929-03-04T00:00:00Z",
+    "endtime2": "1933-03-04T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q8007",
+    "item1Label": "Franklin Delano Roosevelt",
+    "item2": "http://www.wikidata.org/entity/Q298991",
+    "item2Label": "John Nance Garner",
+    "starttime2": "1933-03-04T00:00:00Z",
+    "endtime2": "1941-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q8007",
+    "item1Label": "Franklin Delano Roosevelt",
+    "item2": "http://www.wikidata.org/entity/Q251666",
+    "item2Label": "Henry A. Wallace",
+    "starttime2": "1941-01-20T00:00:00Z",
+    "endtime2": "1945-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q8007",
+    "item1Label": "Franklin Delano Roosevelt",
+    "item2": "http://www.wikidata.org/entity/Q11613",
+    "item2Label": "Harry S Truman",
+    "starttime2": "1945-01-20T00:00:00Z",
+    "endtime2": "1945-04-12T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11613",
+    "item1Label": "Harry S Truman",
+    "item2": "http://www.wikidata.org/entity/Q273549",
+    "item2Label": "Alben W. Barkley",
+    "starttime2": "1949-01-20T00:00:00Z",
+    "endtime2": "1953-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q9916",
+    "item1Label": "Dwight D. Eisenhower",
+    "item2": "http://www.wikidata.org/entity/Q9588",
+    "item2Label": "Richard Nixon",
+    "starttime2": "1953-01-20T00:00:00Z",
+    "endtime2": "1961-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q9696",
+    "item1Label": "John F. Kennedy",
+    "item2": "http://www.wikidata.org/entity/Q9640",
+    "item2Label": "Lyndon B. Johnson",
+    "starttime2": "1961-01-20T00:00:00Z",
+    "endtime2": "1963-11-22T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q9640",
+    "item1Label": "Lyndon B. Johnson",
+    "item2": "http://www.wikidata.org/entity/Q209989",
+    "item2Label": "Hubert Humphrey",
+    "starttime2": "1965-01-20T00:00:00Z",
+    "endtime2": "1969-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q9588",
+    "item1Label": "Richard Nixon",
+    "item2": "http://www.wikidata.org/entity/Q203433",
+    "item2Label": "Spiro Agnew",
+    "starttime2": "1969-01-20T00:00:00Z",
+    "endtime2": "1973-10-10T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q9588",
+    "item1Label": "Richard Nixon",
+    "item2": "http://www.wikidata.org/entity/Q9582",
+    "item2Label": "Gerald Ford",
+    "starttime2": "1973-12-06T00:00:00Z",
+    "endtime2": "1974-08-09T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q9582",
+    "item1Label": "Gerald Ford",
+    "item2": "http://www.wikidata.org/entity/Q11237",
+    "item2Label": "Nelson Rockefeller",
+    "starttime2": "1974-12-19T00:00:00Z",
+    "endtime2": "1977-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q23685",
+    "item1Label": "Jimmy Carter",
+    "item2": "http://www.wikidata.org/entity/Q49216",
+    "item2Label": "Walter Mondale",
+    "starttime2": "1977-01-20T00:00:00Z",
+    "endtime2": "1981-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q9960",
+    "item1Label": "Ronald Reagan",
+    "item2": "http://www.wikidata.org/entity/Q23505",
+    "item2Label": "George H. W. Bush",
+    "starttime2": "1981-01-20T00:00:00Z",
+    "endtime2": "1989-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q23505",
+    "item1Label": "George H. W. Bush",
+    "item2": "http://www.wikidata.org/entity/Q49214",
+    "item2Label": "Dan Quayle",
+    "starttime2": "1989-01-20T00:00:00Z",
+    "endtime2": "1993-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q1124",
+    "item1Label": "Bill Clinton",
+    "item2": "http://www.wikidata.org/entity/Q19673",
+    "item2Label": "Al Gore",
+    "starttime2": "1993-01-20T00:00:00Z",
+    "endtime2": "2001-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q207",
+    "item1Label": "George W. Bush",
+    "item2": "http://www.wikidata.org/entity/Q48259",
+    "item2Label": "Dick Cheney",
+    "starttime2": "2001-01-20T00:00:00Z",
+    "endtime2": "2009-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q76",
+    "item1Label": "Barack Obama",
+    "item2": "http://www.wikidata.org/entity/Q6279",
+    "item2Label": "Joe Biden",
+    "starttime2": "2009-01-20T00:00:00Z",
+    "endtime2": "2017-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q22686",
+    "item1Label": "Donald Trump",
+    "item2": "http://www.wikidata.org/entity/Q24313",
+    "item2Label": "Mike Pence",
+    "starttime2": "2017-01-20T00:00:00Z",
+    "endtime2": "2021-01-20T00:00:00Z"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q6279",
+    "item1Label": "Joe Biden",
+    "item2": "http://www.wikidata.org/entity/Q10853588",
+    "item2Label": "Kamala Harris",
+    "starttime2": "2021-01-20T00:00:00Z",
+    "endtime2": "2022-12-26T21:23:27Z"
+  }
+]
