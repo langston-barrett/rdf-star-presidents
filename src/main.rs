@@ -62,11 +62,17 @@ fn main() -> Result<()> {
             }
             .into(),
         })?;
-        formatter.format(&triple(
-            &result.pres,
-            "http://www.w3.org/2000/01/rdf-schema#label",
-            &result.pres_label,
-        ))?;
+        formatter.format(&Triple {
+            subject: NamedNode { iri: &result.pres }.into(),
+            predicate: NamedNode {
+                iri: "http://www.w3.org/2000/01/rdf-schema#label",
+            }
+            .into(),
+            object: Literal::Simple {
+                value: &result.pres_label,
+            }
+            .into(),
+        })?;
     }
 
     formatter.finish()?;
